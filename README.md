@@ -1,2 +1,1 @@
-# Udacity-DAND-p4
-The fourth project of Udacity DAND program.
+In this Project, I will analyze A/B Test results
